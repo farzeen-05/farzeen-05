@@ -3,6 +3,7 @@ I'm an Electronics and Communication Engineering (ECE) student with a strong int
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/farzeen-abdul-khadir-8921ba2a1)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farzeen99453@gmail.com) 
 
 # 💻 Tech Stack:
