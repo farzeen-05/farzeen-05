@@ -134,22 +134,6 @@ I'm continuously sharpening my skills in **Python, C++, data structures & algori
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=farzeen-05&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeen-05&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzeen-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farzeen-05&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-
-</div>
-
-> ⚠️ Replace `farzeen-05` in the stat widget URLs above with your actual GitHub username if different, so the cards pull your real data.
-
----
 
 <div align="center">
 
