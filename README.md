@@ -2,8 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Farzeen+%F0%9F%91%8B%3BECE+Student+%7C+AI+%26+ML+Enthusiast%3BBuilding+with+Python%2C+IoT+%26+Deep+Learning" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Farzeen+%F0%9F%91%8B%3BECE+Student+%7C+AI+%26+ML+Enthusiast<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Farzeen+%F0%9F%91%8B%3BECE+Student+%7C+AI+%26+ML+Enthusiast%3BBuilding+with+Python%2C+IoT+%26+Deep+Learning" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzeen-abdul-khadir-8921ba2a1)
