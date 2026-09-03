@@ -2,9 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Farzeen+%F0%9F%91%8B%3BECE+Student+%7C+AI+%26+ML+Enthusiast<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Farzeen+%F0%9F%91%8B%3BECE+Student+%7C+AI+%26+ML+Enthusiast%3BBuilding+with+Python%2C+IoT+%26+Deep+Learning" alt="Typing SVG" />
-<br/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Farzeen+%F0%9F%91%8B%3BECE+Student+%7C+AI+%26+ML+Enthusiast%3BBuilding+with+Python%2C+IoT+%26+Deep+Learning" alt="Typing SVG" />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzeen-abdul-khadir-8921ba2a1)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzeen99453@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farzeen-05.github.io/my-website/)
